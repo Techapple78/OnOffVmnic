@@ -1,4 +1,4 @@
-# OnOffVmnic
+# Shut or Unshut Vmnic of ESXi in a vCenter
 .SYNOPSIS
     Shut or unshut VMnic interfaces (with SAN or vSAN ESX)
 .DESCRIPTION
